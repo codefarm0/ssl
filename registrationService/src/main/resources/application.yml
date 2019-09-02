@@ -1,0 +1,7 @@
+server:
+  port: 8086
+  ssl:
+    enabled: true
+    key-store: ssl_server.jks
+    key-store-password: greenlearner
+    trust-store-provider: SUN
